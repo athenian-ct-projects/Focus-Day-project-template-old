@@ -4,7 +4,8 @@
 
 Your task is to design a game for a middle school focus day. This project involves all of the components of computational thinking: decomposition, abstraction, pattern recognition and algorithm design. You will have different due dates for different components to help you stay on track. The goal is for you to complete this in class. That said, particularly complex games may require more time. Likewise, failure to use class time efficiently may also result in the need to work at home. 
 
-You may choose the Focus Day, and more than one person can choose a certain day.  Please read the list of focus days and the rubric carefully (below).
+You may choose the Focus Day, and more than one person can choose a certain day. Descriptions of focus days are included [here](https://github.com/maleich/Focus-Day-project-template/blob/master/2018_19%20Focus%20Days.docx). If you went to the middle school and have favorite day that is not on this list, please check with me. I will check with Lauren to see if that day might return in the near future. If not, you will need to choose a different day. 
+
 
 ## Required components
 
@@ -41,9 +42,17 @@ Additonal requirements:
 * All unique materials needed for game play are included
 * Standard stationary materials (pens, paper, etc) need not be included
 
-## Supporting Documents
+### Stage 4: Evaluation & Reflection
 
-### Focus Day descriptions
+After you have submitted your project, we will play them together and then you will reflect on the process. 
+
+(Spring 2020: stay tuned for how this will work online!)
+
+## Supporting Documents
+* Focus Day Despriptions
+
+* Rubric
+
 
 
 
