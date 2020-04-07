@@ -34,9 +34,16 @@ Your program must contain the following (minimum):
 * Thorough documentation (comments!)
 * References (for both content and code assistance)
 
-Additonally requirements: 
+Additonal requirements: 
 * Game is applicable to a MS Focus Day, and that day is clearly noted in your documentation
 * Game contains enough complexity to be engaging and educational
 * Game contains clear instructions/rules for play
 * All unique materials needed for game play are included
 * Standard stationary materials (pens, paper, etc) need not be included
+
+## Supporting Documents
+
+### Focus Day descriptions
+
+
+
