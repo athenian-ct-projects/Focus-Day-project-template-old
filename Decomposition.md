@@ -2,7 +2,7 @@
 
 * Write your plan here. Use headings an bullet points to organize your thoughts. See the Markdown guide for formatting hints.
 
-Here are soem formatting examples:
+Here are some formatting examples:
 # Level 1 Header
 ## Level 2
 ### Level 3
