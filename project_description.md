@@ -2,7 +2,10 @@
 
 ## Overview
 
-Your task is to design a game for a middle school focus day. This project involves all of the components of computational thinking: decomposition, abstraction, pattern recognition and algorithm design. You will have different due dates for different components to help you stay on track. The goal is for you to complete this in class. That said, particularly complex games may require more time. Likewise, failure to use class time efficiently may also result in the need to work at home. 
+Note for 2020-2021:
+Due to the constraints of this school year, your project does *not* need to be related to a MS Focus Day. If you went to the MS and want to do soemthing related to a Focus Day, you are welcome to do so. You are also welcome to create a game, educational tool or other useful/educational program that is independent of a Focus Day.
+
+Your task is to design a game or tool for a middle school focus day (for 2020-21, the Focus Day part is not required). This project involves all of the components of computational thinking: decomposition, abstraction, pattern recognition and algorithm design. You will have different due dates for different components to help you stay on track. The goal is for you to complete this in class. That said, particularly complex games may require more time. Likewise, failure to use class time efficiently may also result in the need to work at home. 
 
 You may choose the Focus Day, and more than one person can choose a certain day. Descriptions of focus days are included [here](https://github.com/maleich/Focus-Day-project-template/blob/master/2018_19%20Focus%20Days.docx). If you went to the middle school and have favorite day that is not on this list, please check with me. I will check with Lauren to see if that day might return in the near future. If not, you will need to choose a different day. 
 
@@ -24,7 +27,7 @@ Your flow chart should show the logic flow for your game/tool. It should be clea
 ### Stage 3: The Game (or tool)
 
 Your game/tool/activity must contain a coding commponent. You may also have some physical components, such as a game board and playing pieces, if desired. 
-* **Note for Spring 2020: Any physical components must be printable and able to be submitted on Canvas due to Distance Learning limitations.**
+* **Note for Spring 2021: Any physical components must be printable and able to be submitted on Canvas.**
 
 Your program must contain the following (minimum):
 * Variables (3)
@@ -36,17 +39,16 @@ Your program must contain the following (minimum):
 * References (for both content and code assistance)
 
 Additonal requirements: 
-* Game is applicable to a MS Focus Day, and that day is clearly noted in your documentation
+* Game is applicable to a MS Focus Day (**optional**), and that day is clearly noted in your documentation
 * Game contains enough complexity to be engaging and educational
 * Game contains clear instructions/rules for play
-* All unique materials needed for game play are included
+* All unique materials needed for game play are included (no physical materials for 2020-21)
 * Standard stationary materials (pens, paper, etc) need not be included
 
 ### Stage 4: Evaluation & Reflection
 
-After you have submitted your project, we will play them together and then you will reflect on the process. 
+After you have submitted your project, you will present them to the class and then you will reflect on the process. 
 
-(Spring 2020: stay tuned for how this will work online!)
 
 ## Supporting Documents
 * Focus Day Despriptions
