@@ -2,8 +2,8 @@
 
 ## Overview
 
-Note for 2020-2021:
-Due to the constraints of this school year, your project does *not* need to be related to a MS Focus Day. If you went to the MS and want to do soemthing related to a Focus Day, you are welcome to do so. You are also welcome to create a game, educational tool or other useful/educational program that is independent of a Focus Day.
+**Note for 2020-2021:
+Due to the constraints of this school year, your project does *not* need to be related to a MS Focus Day. If you went to the MS and want to do soemthing related to a Focus Day, you are welcome to do so. You are also welcome to create a game, educational tool or other useful/educational program that is independent of a Focus Day.**
 
 Your task is to design a game or tool for a middle school focus day (for 2020-21, the Focus Day part is not required). This project involves all of the components of computational thinking: decomposition, abstraction, pattern recognition and algorithm design. You will have different due dates for different components to help you stay on track. The goal is for you to complete this in class. That said, particularly complex games may require more time. Likewise, failure to use class time efficiently may also result in the need to work at home. 
 
